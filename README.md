@@ -21,4 +21,5 @@ terraform-destroy: ## Destroy all resources created by the terraform file in thi
 ##### Check out the ```ec2-instances``` tag into a local branch.
 ```git 
 git checkout tags/ec2-instances -b ec2-instances
+git checkout tags/website-complete-example -b website-complete-example
 ```
